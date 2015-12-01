@@ -1,0 +1,2 @@
+# nedit
+nedit bash completion
